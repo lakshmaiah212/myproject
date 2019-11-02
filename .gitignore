@@ -1,0 +1,7 @@
+.autogit
+.classpath
+.factorypath
+.project
+.settings
+.settings/*
+target
